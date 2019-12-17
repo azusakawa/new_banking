@@ -1,21 +1,12 @@
-FXServer NEW_BANKING
+# new_banking
 
-NOTICE: If you edit this script, I will not provide support. I will only provide support for this script in it's unedited state.
-
-[REQUIREMENTS]
-
-Dependencies For Full Functionality
-
-es_extended => https://github.com/ESX-Org/es_extended
-
-
-
-Install To resources/[esx]/new_banking << MUST BE INSTALLED HERE
-
-
-Add this in your server.cfg :
+## Install 
+```
 start new_banking
+```
 
-Credits: Script Created By: @onlyserenity(amjedcha)
+## YouTube Channel
+https://www.youtube.com/channel/UCCk-9RN-OSpMcLxS2UtOoZg?view_as=subscriber
 
-Licensing: Please do not edit the background picture of the tablet or post it anywhere else claiming it's yours without @onlyserenity's permission.
+## Discord
+https://discord.gg/VutrhD6
